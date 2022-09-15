@@ -8,10 +8,10 @@ body {
 }
 
 .liens_nav {
-    background-color: brown;
+    background-color: grey;
     padding: 15px;
-    color: #FFFFFF;
-    box-shadow: 1px 1px 2px 3px;
+    color: #ffffff;
+    box-shadow: 1px 1px 2px 1px grey;
     text-decoration: none;
 }
 
