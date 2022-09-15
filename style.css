@@ -7,6 +7,12 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.lien_nav{
+    background-color: brown;
+    padding: 10px;
+    color: white;
+    box-shadow: 1px 1px 2px 3px;
+
 a,
 button {
     transition: all .3s ease-in-out;
