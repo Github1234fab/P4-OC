@@ -15,6 +15,10 @@ body {
     box-shadow: 1px 1px 2px 1px grey;
     text-decoration: none;
 }
+.liens_nav:hover{
+    background-color: black;
+}
+    
 
 a,
 button {
